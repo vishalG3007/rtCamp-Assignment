@@ -214,6 +214,9 @@ body{
     margin-bottom: 10px;
     padding: 5px 0px;
 }
+#partners img{
+    margin: auto;
+}
 .main-footer{
     background-color:  #e6c36e;
     padding: 20px;
