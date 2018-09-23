@@ -16,3 +16,15 @@
 <ol>
   <li><a href="https://weatherwidget.io/">Weather Widget</a></li>
 </ol>
+<hr />
+<dl>
+  <dt>Main Slider:</dt>
+  <dd>The main slider is made with <a href="https://getbootstrap.com/docs/4.1/components/carousel/">Bootstrap Carousel</a></dd>
+  
+  <dt>Video Slider:</dt>
+  <dd>The video slider is made with <a href="http://kenwheeler.github.io/slick/">Slick.js</a> Responsive slider</dd>
+  
+  <dt>Partners Slider:</dt>
+  <dd>The Partners slider is made with <a href="http://kenwheeler.github.io/slick/">Slick.js</a> Responsive slider</dd>
+</dl>
+
