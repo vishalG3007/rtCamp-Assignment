@@ -1,6 +1,13 @@
 <h1>rtCamp Front-End Assignment</h1>
 <h4>Demo Link:</h4>https://vishalg3007.github.io/rtCamp-Assignment/
 <hr />
+<h4>Technologies used-<h4>
+<ol>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ol>
+<hr />
 <h4>Front-End Framework used-<h4>
 <ol>
   <li>Bootstrap</li>
@@ -26,5 +33,8 @@
   
   <dt>Partners Slider:</dt>
   <dd>The Partners slider is made with <a href="http://kenwheeler.github.io/slick/">Slick.js</a> Responsive slider</dd>
+  
+  <dt>Date & Time:</dt>
+  <dd>Timer Color Changes continuesly as color value is taken from actual time by converting it into hex value of color.</dd>
 </dl>
 
