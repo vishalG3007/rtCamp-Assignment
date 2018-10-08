@@ -46,16 +46,20 @@ body{
 #nav-main{
     background-color: #e7c46e;
 }
+#nav-main nav{
+    padding: 0;
+    margin: 0;
+}
 #nav-main li{
     display: inline-block;
     font-size: 13px;
-    margin-right: 15px;
-    padding: 0;
+    margin-right: 35px;
 }
 #nav-main a{
     color: black;
     font-weight: 500;
     text-transform: uppercase;
+    padding:11px 5px;
 }
 #nav-main a:hover{
     color:white;
